@@ -1,7 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=thecetinkaya&show_icons=true">
+
 
 # Hi, I'am Burak Cetinkaya! 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecetinkaya" alt="thecetinkaya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecetinkaya" alt="thecetinkaya" /> </p>
 
 [![](https://img.shields.io/twitter/follow/1burakcetinkaya?style=social)](https://www.twitter.com/1burakcetinkaya)
 [![](https://img.shields.io/github/followers/thecetinkaya?style=social)](https://www.github.com/thecetinkaya)
