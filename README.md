@@ -1,9 +1,9 @@
 
 
-# Hi, I'am Burak Cetinkaya! 
+# Hi,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecetinkaya" alt="thecetinkaya" /> </p>
 
-[![](https://img.shields.io/twitter/follow/1burakcetinkaya?style=social)](https://www.twitter.com/1burakcetinkaya)
+[![](https://img.shields.io/twitter/follow/1burakcetinkaya?style=social)](https://www.twitter.com/thecetinkaya0)
 [![](https://img.shields.io/github/followers/thecetinkaya?style=social)](https://www.github.com/thecetinkaya)
 
 
