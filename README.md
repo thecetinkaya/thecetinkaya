@@ -3,7 +3,7 @@
 # Hi,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecetinkaya" alt="thecetinkaya" /> </p>
 
-[![](https://img.shields.io/twitter/follow/thecetinkaya_?style=social)](https://www.twitter.com/xburakcetinkaya_)
+[![](https://img.shields.io/twitter/follow/xburakcetinkaya_?style=social)](https://www.twitter.com/xburakcetinkaya_)
 [![](https://img.shields.io/github/followers/thecetinkaya?style=social)](https://www.github.com/thecetinkaya)
 
 
