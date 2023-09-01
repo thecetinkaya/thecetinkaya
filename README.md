@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/twitter/follow/xburakcetinkaya_?style=social)](https://www.twitter.com/xburakcetinkaya_)
 [![](https://img.shields.io/github/followers/thecetinkaya?style=social)](https://www.github.com/thecetinkaya)
-[![](https://img.shields.io/github/followers/thecetinkaya?style=social)](https://www.instagram.com/thecetinkaya)
+[![](https://img.shields.io/instagram/followers/thecetinkaya?style=social)](https://www.instagram.com/thecetinkaya)
 
 
 
